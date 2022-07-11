@@ -1,14 +1,14 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
-- Preferred Programming Language: C++/Java/Python
+- Name:Pryas Gupta 
+- University Roll No.: 1900290110071
+- Branch: CSIT
+- Section:B
+- Preferred Programming Language: C++
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: [PRYAS GUPTA](https://leetcode.com/pryasgupta32)
+- HackerRank: [PRYAS GUPTA](https://www.hackerrank.com/Pryas121)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
@@ -38,8 +38,8 @@
     | Extra Week | [Day 15](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/ALGO%20II/Day%2015) | [Day 16](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/ALGO%20II/Day%2016) | [Day 17](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/ALGO%20II/Day%2017) | [Day 18](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/ALGO%20II/Day%2018) | [Day 19](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/ALGO%20II/Day%2019) | [Day 20](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/ALGO%20II/Day%2020) | [Day 21](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/ALGO%20II/Day%2021) |
 
 ## Weekly Submissions
-1. [Week 1](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/Weekly%20Submissions/Week%201)
-2. [Week 2](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/Weekly%20Submissions/Week%202)
-3. [Week 3](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/Weekly%20Submissions/Week%203)
-4. [Week 4](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/Weekly%20Submissions/Week%204)
-5. [Week 5](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/Weekly%20Submissions/Week%205)
+1. [Week 1](https://github.com/PRYAS-hash/Pre-Placement-Module-2023/tree/main/Weekly%20Submissions/Week%201)
+2. [Week 2](https://github.com/PRYAS-hash/Pre-Placement-Module-2023/tree/main/Weekly%20Submissions/Week%202)
+3. [Week 3](https://github.com/PRYAS-hash/Pre-Placement-Module-2023/tree/main/Weekly%20Submissions/Week%203)
+4. [Week 4](https://github.com/PRYAS-hash/Pre-Placement-Module-2023/tree/main/Weekly%20Submissions/Week%204)
+5. [Week 5](https://github.com/PRYAS-hash/Pre-Placement-Module-2023/tree/main/Weekly%20Submissions/Week%205)
